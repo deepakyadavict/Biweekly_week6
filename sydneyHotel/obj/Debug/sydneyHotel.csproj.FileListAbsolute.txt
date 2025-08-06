@@ -1,0 +1,8 @@
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\bin\Debug\sydneyHotel.exe.config
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\bin\Debug\sydneyHotel.exe
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\bin\Debug\sydneyHotel.pdb
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\obj\Debug\sydneyHotel.csproj.AssemblyReference.cache
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\obj\Debug\sydneyHotel.csproj.CoreCompileInputs.cache
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\obj\Debug\sydneyHotel.exe
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\obj\Debug\sydneyHotel.pdb
+C:\Users\Gooday Mart\source\repos\sydneyHotel\sydneyHotel\obj\Debug\sydneyHotel.exe.config
